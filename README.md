@@ -1,12 +1,12 @@
 # Group Video Calling App
 
-## Resources
+## 💡Resources
 
 - [Agora Website](https://www.agora.io/en/)
 - [Agora Docs](https://docs.agora.io/en)
 - [Agora React Wrapper](https://github.com/AgoraIO-Community/agora-rtc-react/tree/v1.0.1)
 
-## Setup
+## 🔨Setup
 
 #### Clone the repo
 ```
